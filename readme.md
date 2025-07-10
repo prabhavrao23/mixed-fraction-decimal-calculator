@@ -6,6 +6,8 @@ I made this project to be able to perform arithmetic operations on mixed fractio
 
 ## Demo Video
 
+[![Watch the demo](https://img.youtube.com/vi/ij5eyRmfiM8/0.jpg)](https://youtu.be/ij5eyRmfiM8)
+
 The calculator supports various input formats for numbers, including simple fractions, mixed numbers, decimals, and whole numbers.
 
 ## Features
