@@ -1,4 +1,4 @@
-# Fraction Calculator Web Interface
+# Mixed-fraction-decimal-calculator with web interface
 
 **Project Overview**
 
