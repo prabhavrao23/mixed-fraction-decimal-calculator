@@ -1,0 +1,45 @@
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+# IDE specific ignores
+.vscode/ # VS Code specific settings
+.idea/   # IntelliJ IDEA / PyCharm specific settings
+
+# C++ ignores
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Dynamic/shared libraries
+*.dll
+*.so
+*.dylib
+
+# Static libraries
+*.lib
+*.a
+
+# Build directories 
+# build/
+# bin/
+# obj/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
