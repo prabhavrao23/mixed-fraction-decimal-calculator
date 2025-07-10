@@ -1,6 +1,7 @@
-#Fraction Calculator Web Interface
+# Fraction Calculator Web Interface
 
 **Project Overview**
+
 I made this project to be able to perform arithmetic operations on mixed fractions and decimals. I did this through operator overloading with a C++ backend and Python Flask frontend. 
 
 **Demo Video**
